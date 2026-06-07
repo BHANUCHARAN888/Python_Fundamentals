@@ -37,7 +37,7 @@ To build a strong foundation in Python through daily coding practice and consist
 * [1] Type Conversion
 * [1] Conditional Statements
 * [1] Loops
-* [0] Functions
+* [1] Functions
 * [0] Data Structures
 * [0] Projects
 ---
