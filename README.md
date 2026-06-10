@@ -2,7 +2,7 @@
 
 This repository contains my Python practice programs and projects as I learn programming step by step.
 
-### Week 1: Python Fundamentals
+### Stage 1: Python Fundamentals
 * Variables
 * Data Types
 * Input and Output
@@ -15,7 +15,7 @@ This repository contains my Python practice programs and projects as I learn pro
 * Dictionaries and Sets
 * File Handling
   
-### week 2: Advanced
+### Stage 2: Advanced
 * Object-Oriented Programming
 * Projects
 ---
