@@ -117,3 +117,44 @@
 #             seen[l] = 1
 #     return seen
 # print(Word_Counter("Banana"))
+#----------------------------------------------------
+# Mini Project: Contact Book
+def menu():
+    print("\n--- Contact Book ---")
+    print("1. Add Contact")
+    print("2. Search Contact")
+    print("3. View Contacts")
+    print("4. Delete Contact")
+    print("5. Exit") 
+def Contact_book():
+    contacts = {}
+    while True:
+          menu()
+          choice = input("Enter Choice: ")
+          if choice == "1":
+             name = input("Enter Name: ")
+             number = input("Enter Number: ")
+             contacts[name] = number
+             print("Contact Added")
+          elif choice == "2":
+              search = input("Enter Name: ")
+              if search in contacts:
+                  print("Phone: ", contacts[name])
+              else:
+                  print("Not Found")
+          elif choice == '3':
+               for name,number in contacts.items():
+                   print(name,"-",number)
+          elif choice == '4':
+               name = input("Delete Name: ")
+               if name in contacts:
+                   del contacts[name]
+                   print("Deleted")
+               else:
+                   print("Not Found")
+          elif choice == '5':
+               print("Thank you")
+               break
+          else:
+              print("Invalid Choice!!")
+Contact_book()
