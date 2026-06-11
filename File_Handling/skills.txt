@@ -2,3 +2,8 @@ Python
 DSA
 SQL
 FILE handling
+Machine Learning
+Deep Learning
+Artificial Intelligence
+LLMTensorFlowProblem Solving
+Debugging
