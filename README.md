@@ -11,6 +11,7 @@ This repository contains my Python practice programs and projects as I learn pro
 * Conditional Statements
 * Loops
 * Functions
+* Strings
 * Lists and Tuples
 * Dictionaries and Sets
 * File Handling
