@@ -1,0 +1,4 @@
+Name: Bhanu Charan
+Age: 20
+Skills: PYTHON, SQL, PROBLEM SOLVING, LLM
+Goal: AI ENGINEER /  DATA SCIENTIST
