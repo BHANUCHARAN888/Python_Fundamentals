@@ -40,6 +40,8 @@ To build a strong foundation in Python through daily coding practice and consist
 * [1] Loops
 * [1] Functions
 * [1] Data Structures
+* [1] File Handling & Exception Handling
+* [0] OOP 
 * [0] Projects
 ---
 ## 💡 Learning Approach
