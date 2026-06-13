@@ -42,11 +42,11 @@ To build a strong foundation in Python through daily coding practice and consist
 * [1] Data Structures
 * [1] File Handling & Exception Handling
 * [0] OOP
-  --> [1] Classes, Objects, Attributes, constructor, class vs Instance
-  --> [0] Encapsulation
-  --> [0] Inheritance
-  --> [0] Polymorphism
-  --> [0] Abstraction 
+    * [1] Classes, Objects, Attributes, constructor, class vs Instance
+    * [0] Encapsulation
+    * [0] Inheritance
+    * [0] Polymorphism
+    * [0] Abstraction 
 * [0] Projects
 ---
 ## 💡 Learning Approach
